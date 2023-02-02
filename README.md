@@ -1,1 +1,1 @@
-# Superstore-Profit-Perdiction
+# Superstore-Profit-Prediction
